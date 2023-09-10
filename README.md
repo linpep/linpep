@@ -10,6 +10,8 @@
 
  ```Blog -->``` [📝pepsec.com📝](https://pepsec.com)
  
- ```YouTube -->``` [▶️Pepper Security▶️](https://youtube.com/@peppersecurity)
+ ```YouTube -->``` [▶️@peppersecurity▶️](https://youtube.com/@peppersecurity)
 
- ```LinkedIn -->``` [🔗LinkedIn🔗](https://www.linkedin.com/in/tonyveltri/)
+```Twitter -->``` [🕊️@pepsecurity🕊️](https://twitter.com/pepsecurity)
+
+ ```LinkedIn -->``` [🔗@tonyveltri🔗](https://www.linkedin.com/in/tonyveltri/)
