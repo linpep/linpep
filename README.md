@@ -14,4 +14,4 @@
 
 ```Twitter -->``` [🕊️@pepsecurity🕊️](https://twitter.com/pepsecurity)
 
- ```LinkedIn -->``` [🔗@tonyveltri🔗](https://www.linkedin.com/in/tonyveltri/)
+ ```LinkedIn -->``` [🔗@tonyv🔗](https://www.linkedin.com/in/tonyveltri/)
