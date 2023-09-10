@@ -6,8 +6,10 @@
 
  Currently a Cybersecurity Student, developing my skills in Pen-Testing, Development, Security Research, Network Administration, Systems Administration, Cloud Security and more! 
  
- ```Follow my Website/ Blog -->``` [📝pepsec.com📝](https://pepsec.com)
- 
- ```Follow my YouTube -->``` [▶️Pepper Security▶️](https://youtube.com/@peppersecurity)
+### Be sure to check out my...
 
- ```Follow my LinkinIn -->```[🔗Tony V.🔗](https://www.linkedin.com/in/tonyveltri/)
+ ```Blog -->``` [📝pepsec.com📝](https://pepsec.com)
+ 
+ ```YouTube -->``` [▶️Pepper Security▶️](https://youtube.com/@peppersecurity)
+
+ ```LinkedIn -->``` [🔗LinkedIn🔗](https://www.linkedin.com/in/tonyveltri/)
